@@ -1,0 +1,11 @@
+*.DS_Store
+*.iml
+.idea/
+target/
+*.log
+bower_components/
+npm-debug.log
+node_modules
+jspm_packages
+.idea
+build
