@@ -1,6 +1,6 @@
 {
   "name": "multiple-date-picker-a4",
-  "version": "2.5.5",
+  "version": "1.0.0",
   "description": "Multiple Date Picker for Angular* (angular 2+)",
   "main": "./dist/multiple-date-picker.module.js",
   "module": "./dist/multiple-date-picker.module.js",
