@@ -8,11 +8,6 @@
   "scripts": {
     "build:lib": "nglb --rootDir src --outDir dist"
   },
-  "files": [
-    "dist",
-    "index.js",
-    "index.d.ts"
-  ],
   "keywords": [
     "angular",
     "angular2",
